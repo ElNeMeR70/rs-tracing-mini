@@ -1,0 +1,10 @@
+[package]
+name = "rs-tracing-mini"
+version = "1.0.0"
+edition = "2021"
+description = "tracing-compatible structured logging and spans"
+license = "MIT"
+
+[[bin]]
+name = "rs_tracing_mini"
+path = "main.rs"
